@@ -1,0 +1,1 @@
+This is duplicate of feature one file created in feature1 branch
