@@ -1,3 +1,2 @@
 This is first file
-This line appended in master branch
 This is line appended from feature1 branch
